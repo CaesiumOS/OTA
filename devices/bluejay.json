@@ -1,12 +1,12 @@
 {
         "response": [
     {
-        "datetime": 1752392839,
-        "filename": "MantissaOS-7.5.0-preview-bluejay.zip",
-        "id": "9ca6c570fe890502cd680635bb3ada77",
+        "datetime": 1752618713,
+        "filename": "MantissaOS-7.5.0-bluejay.zip",
+        "id": "cbcaa0d8eab274238b7b96ba53f24d42",
         "romtype": "official",
-        "size": 1308150959,
-        "url": "https://sourceforge.net/projects/mantissaos/files/bluejay/MantissaOS-7.5.0-preview-bluejay.zip/download",
+        "size": 1308167022,
+        "url": "https://sourceforge.net/projects/mantissaos/files/bluejay/MantissaOS-7.5.0-bluejay.zip/download",
         "version": "7.5.0"
     }
                     ]
