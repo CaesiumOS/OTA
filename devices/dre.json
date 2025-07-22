@@ -1,13 +1,13 @@
 {
     "response": [
 {
-    "datetime": 1752918345,
-    "filename": "MantissaOS-7.5.1-dre.zip",
-    "id": "3a8ce031bea68993e78c88a53ecf3324",
+    "datetime": 1753171615,
+    "filename": "MantissaOS-7.5.2-dre.zip",
+    "id": "be339ff5fa003b10404ac2cdc61adeef",
     "romtype": "official",
-    "size": 1250272357,
-    "url": "https://sourceforge.net/projects/mantissaos/files/dre/MantissaOS-7.5.1-dre.zip/download",
-    "version": "7.5.1"
+    "size": 1250407546,
+    "url": "https://sourceforge.net/projects/mantissaos/files/dre/MantissaOS-7.5.2-dre.zip/download",
+    "version": "7.5.2"
 }
                 ]
 }
