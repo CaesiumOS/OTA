@@ -9,7 +9,7 @@
         "size": 1319445851,
         "url": "https://sourceforge.net/projects/mantissaos/files/emu64x/MantissaOS-7.5.3-emu64x.zip/download",
         "version": "8.0.0",
-        "changelog": "MantissaOS 8\nTest of changelog API in Updater, introduced in 25A01."
+        "changelog": "MantissaOS 8. Test of the new Updater changelog API."
     }
                     ]
 }
