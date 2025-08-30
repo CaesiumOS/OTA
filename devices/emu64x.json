@@ -1,0 +1,15 @@
+
+{
+        "response": [
+    {
+        "datetime": 1756954657,
+        "filename": "MantissaOS-7.5.3-emu64x.zip",
+        "id": "1c63945b3c7a9cac9c31525a90b096a3",
+        "romtype": "official",
+        "size": 1319445851,
+        "url": "https://sourceforge.net/projects/mantissaos/files/emu64x/MantissaOS-7.5.3-emu64x.zip/download",
+        "version": "8.0.0",
+        "changelog": "MantissaOS 8\nTest of changelog API in Updater, introduced in 25A01."
+    }
+                    ]
+}
