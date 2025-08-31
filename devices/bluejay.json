@@ -7,7 +7,18 @@
         "romtype": "official",
         "size": 1319445851,
         "url": "https://sourceforge.net/projects/mantissaos/files/bluejay/MantissaOS-7.5.3-bluejay.zip/download",
-        "version": "7.5.3"
+        "version": "7.5.3",
+        "changelog": "Update Android security patch to August 2025. Improve system security."
+    },
+    {
+        "datetime": 1756623989,
+        "filename": "MantissaOS-8.0.0-bluejay.zip",
+        "id": "9c77a8a05f23b00c6eea84ffaab99625",
+        "romtype": "official",
+        "size": 1337296175,
+        "url": "https://sourceforge.net/projects/mantissaos/files/bluejay/MantissaOS-8.0.0-bluejay.zip/download",
+        "version": "8.0.0",
+        "changelog": "System\nStable MantissaOS based on Android 16\nRecovery now uses default AOSP design\nNew boot animation\nAbility to view changelogs of available updates\nIntroduces support for the APV codec\nAdds support for the Seamless App Updates APIs\n\nUser experience\nFull redesign of the operating system, now incorportaing the new Material 3 Expressive design language\nMaterial 3 redesign for the stock calendar app\nIntroduces Live Updates, a new type of dynamic progress notification\nAdd a new app drawer shortcut to the home screen menu\nSome app icons were updated\nRefreshed animations now make using the system more fluid and dynamic\n\nPersonalization\nIntroducing an overhaules, customizable Quick Settings: QS tiles can now be resized into smaller or larger sizes in addition to existing functionality\nAdditional system font overlays have been added, allowing more font customization around the system\nSome stock wallpapers have been temporarily removed, as they were not present in the source repository when this build was compiled"
     }
                     ]
 }
