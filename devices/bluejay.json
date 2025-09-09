@@ -1,14 +1,14 @@
 {
         "response": [
     {
-        "datetime": 1756379064,
-        "filename": "MantissaOS-7.5.3-bluejay.zip",
-        "id": "1c63945b3c7a9cac9c31525a90b096a3",
+        "datetime": 1757362594,
+        "filename": "MantissaOS-7.5.4-bluejay.zip",
+        "id": "04ae23aadac2f234ef6830daeccc6906",
         "romtype": "official",
-        "size": 1319445851,
-        "url": "https://sourceforge.net/projects/mantissaos/files/bluejay/MantissaOS-7.5.3-bluejay.zip/download",
-        "version": "7.5.3",
-        "changelog": "Update Android security patch to August 2025. Improve system security."
+        "size": 1308511782,
+        "url": "https://sourceforge.net/projects/mantissaos/files/bluejay/MantissaOS-7.5.4-bluejay.zip/download",
+        "version": "7.5.4",
+        "changelog": "System\n    - New boot animation\n    - Ability to view changelogs of available updates (currently buggy, fix will be released soon)\n    - Update Android security patch to September 2025. Improve system security.\n\nUser experience\n    - Some app icons were updated"
     },
     {
         "datetime": 1756642027,
