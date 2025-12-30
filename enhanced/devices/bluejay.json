@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+        "datetime": 1756642027,
+        "filename": "MantissaOS-8.0.0-bluejay.zip",
+        "id": "9c77a8a05f23b00c6eea84ffaab99625",
+        "romtype": "official",
+        "size": 1337296175,
+        "url": "https://sourceforge.net/projects/mantissaos/files/bluejay/MantissaOS-8.0.0-bluejay.zip/download",
+        "version": "8.0.0",
+        "changelog": "System\n    - Stable MantissaOS based on Android 16\n    - New boot animation\n    - Ability to view changelogs of available updates\n    - Introduces support for the APV codec\n    - Adds support for the Seamless App Updates APIs\n\nUser experience\n    - Full redesign of the operating system, now incorporating the new Material 3 Expressive design language\n    - Material 3 redesign for the stock calendar app\n    - Introduces Live Updates, a new type of dynamic progress notification\n    - Add a new app drawer shortcut to the home screen menu\n    - Some app icons were updated\n    - Refreshed animations now make using the system more fluid and dynamic\n\nPersonalization\n    - Introducing an overhauled, customizable Quick Settings: QS tiles can now be resized into smaller or larger sizes in addition to existing functionality\n    - Additional system font overlays have been added, allowing more font customization around the system\n    - Some stock wallpapers have been temporarily removed, as they were not present in the source repository when this build was compiled"
+    }
+  ]
+}
