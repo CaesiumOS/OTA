@@ -1,14 +1,14 @@
 {
   "response": [
     {
-        "datetime": 1777281375,
-        "filename": "caesiumose-3.5.1-bluejay-ota.zip",
-        "id": "2310d49a25bbcdd7a0aeb49be78263b1",
+        "datetime": 1767399286,
+        "filename": "caesiumose-3.5.2-bluejay-ota.zip",
+        "id": "7b629cd0fac76115ca00886b21aab562",
         "romtype": "official",
-        "size": 1348847436,
-        "url": "https://sourceforge.net/projects/caesiumos/files/bluejay/enhanced/stable/caesiumose-3.5.1-bluejay-ota.zip/download",
-        "version": "3.5.1",
-        "changelog": "System\n    - Stable CaesiumOS based on Android 16 QPR2\n\nUser experience\n    - Material 3 Expressive redesign of Search\n    - Google Discover is now available in the -1 screen in the launcher if the Google app is installed\n    - New switch style now used in Launcher settings"
+        "size": 1351212504,
+        "url": "https://sourceforge.net/projects/caesiumos/files/bluejay/enhanced/stable/caesiumose-3.5.2-bluejay-ota.zip/download",
+        "version": "3.5.2",
+        "changelog": "System\n    - Stable CaesiumOS based on Android 16 QPR2\n\nUser experience\n    - Fix 'What's New' button in the Updater not displaying the update changelog\n    - Themed icons can now be used in the launcher's app drawer\n  - Material Design 3 Expressive redesign of the log viewer\n  - Material 3 Expressive redesign of system setup"
     }
   ]
 }
