@@ -11,7 +11,7 @@
         "changelog": "System\n    - New boot animation\n    - Ability to view changelogs of available updates (currently buggy, fix will be released soon)\n    - Update Android security patch to September 2025. Improve system security.\n\nUser experience\n    - Some app icons were updated"
     },
     {
-        "datetime": 199999999,
+        "datetime": 2375747374,
         "filename": "MantissaOS-8.0.0-bluejay.zip",
         "id": "9c77a8a05f23b00c6eea84ffaab99625",
         "romtype": "official",
