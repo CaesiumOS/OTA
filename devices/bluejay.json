@@ -11,13 +11,13 @@
         "changelog": "System\n    - New boot animation\n    - Ability to view changelogs of available updates (currently buggy, fix will be released soon)\n    - Update Android security patch to September 2025. Improve system security.\n\nUser experience\n    - Some app icons were updated"
     },
     {
-        "datetime": 1775340572,
-        "filename": "caesiumos-4.0.260406-bluejay-ota.zip",
-        "id": "537b6a24d8d6a8316e134c5116ca3860",
+        "datetime": 1775736349,
+        "filename": "caesiumos-4.0.260408-bluejay-ota.zip",
+        "id": "d5d2709531317b69c3ffce87c78695cd",
         "romtype": "official",
-        "size": 1314531383,
-        "url": "https://github.com/CaesiumOS/bluejay-releases/releases/download/260406/caesiumos-4.0.260406-bluejay-ota.zip",
-        "version": "4.0.260406",
+        "size": 1314539505,
+        "url": "https://github.com/CaesiumOS/bluejay-releases/releases/download/260406/caesiumos-4.0.260408-bluejay-ota.zip",
+        "version": "4.0.260408",
         "changelog": "New features"
     }
             ]
