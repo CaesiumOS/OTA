@@ -1,13 +1,14 @@
 {
     "response": [
 {
-    "datetime": 1783795560,
-    "filename": "caesiumos-3.5.8-veux-ota-NoPK.zip",
-    "id": "707d80a70f5d954da8fc34213f13367f",
+    "datetime": 1784368524,
+    "filename": "caesiumos-3.5.9-veux-ota.zip",
+    "id": "4796c5e36b8fbc322387a5704df39cca",
     "romtype": "official",
-    "size": 1307648527,
-    "url": "https://github.com/CaesiumOS/veux-releases/releases/download/3.5.8/caesiumos-3.5.8-veux-ota-NoPK.zip",
-    "version": "3.5.8"
+    "size": 1309184390,
+    "url": "https://github.com/CaesiumOS/veux-releases/releases/download/3.5.9/caesiumos-3.5.9-veux-ota.zip",
+    "version": "3.5.9",
+    "changelog": "changes"
 }
                 ]
 }
